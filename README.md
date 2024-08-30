@@ -80,4 +80,4 @@ Some common pitfalls for new users includes:
 - Setting restrictions on repository
 - Using git for management, the commands used will provide a challenge for new users.
 
-New users are encourage to be as simple as possible. Learn and make more research into github and learn from their mistakes. 
+New users are encourage to be as simple as possible. Learn and make more research into github and learn from their mistakes.
